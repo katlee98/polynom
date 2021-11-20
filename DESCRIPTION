@@ -1,0 +1,19 @@
+Package: polynom
+Title: Apply a Special Polynomial Function to a Vector
+Version: 0.1.0
+Authors@R: 
+    person(given = "Katrina",
+           family = "Poppe",
+           role = c("aut", "cre"),
+           email = "poppek@student.ubc.ca"
+           )
+Description: The polynom package currently contains the 'poly_fcn()' function that applies a custom polynomial equation to a vector of numeric values.
+    The 'poly_fcn()' does not have much real-world value but let's just pretend that it is a commonly used calculation in soil science.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
