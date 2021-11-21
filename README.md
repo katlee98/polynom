@@ -7,8 +7,8 @@
 <!-- badges: end -->
 
 The goal of polynom is to apply a custom polynomial equation (with
-‘poly_fcn()’) to a vector of numeric values. Let’s pretend that the
-‘poly_fcn()’ equation is of special importance in soil science, and it’s
+`poly_fcn()`) to a vector of numeric values. Let’s pretend that the
+`poly_fcn()` equation is of special importance in soil science, and it’s
 nice not to have to look it up all the time.
 
 ## Installation
